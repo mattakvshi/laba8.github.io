@@ -87,7 +87,6 @@ body {
 }
 
 .popup .label__text {
-  font-family: 'Rubik Bubbles', cursive;
   margin-left: 20px;
   font-size: 14px;
   text-transform: uppercase;
@@ -215,6 +214,7 @@ width: 100%;
 }
 
 .btn {
+ font-family: 'Rubik Bubbles', cursive;
  width: 100%;
  background: linear-gradient(#E318FF,#6F18FF);
  padding: 10px 20px;
