@@ -130,6 +130,7 @@ body {
 
 .popup textarea:focus {
   border-bottom: 2px solid #2982ff;
+  color: #fff;
 }
 
 .popup textarea:focus + .label__text {
