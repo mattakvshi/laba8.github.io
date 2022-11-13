@@ -87,6 +87,7 @@ body {
 }
 
 .popup .label__text {
+  font-family: 'Rubik Bubbles', cursive;
   margin-left: 20px;
   font-size: 14px;
   text-transform: uppercase;
